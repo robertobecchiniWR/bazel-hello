@@ -1,6 +1,6 @@
 cc_library(
     name = "greet_lib",
-    srcs = ["gree.cc"],
+    srcs = ["greet.cc"],
     hdrs = ["greet.hh"],
 )
 
